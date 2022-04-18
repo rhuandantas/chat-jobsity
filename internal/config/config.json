@@ -1,0 +1,11 @@
+{
+  "app-name": "chat-jobsity",
+  "client": {
+    "rabbitmq" : {
+      "url": ""
+    },
+    "stooq": {
+      "url-template": "https://stooq.com/q/l/?s=%s&f=sd2t2ohlcv&h&e=csv"
+    }
+  }
+}
